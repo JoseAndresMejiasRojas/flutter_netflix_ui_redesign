@@ -1,5 +1,9 @@
-# Flutter Netflix UI Redesign
+# Fork Flutter Netflix UI Redesign
 
-[YouTube Speed Code](https://youtu.be/sgfMdhV4HQI)
+## Instalación
+Basta con clonar el repostorio.
 
-[Design Credit](https://dribbble.com/shots/5026483-Netflix-Mobile-App-Redesign/)
+## Ejecución en Android
+```bash
+$ flutter run
+```
